@@ -5,18 +5,13 @@ jupyterlab~=3.5.1
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.0.6
 
-
-# Python: ipywidget library for Jupyter notebooks (optional)
-#ipywidgets>=8.0.0,<9
 # Python: ipyevents library for Jupyter notebooks (optional)
-ipyevents>=2.0.1
+#ipyevents>=2.0.1
 # Python: interative Matplotlib library for Jupyter notebooks (optional)
-ipympl>=0.8.2
+#ipympl>=0.8.2
 
 numpy
-#scipy
 pandas
 scikit-learn
 matplotlib
 Pillow
-ipywidgets

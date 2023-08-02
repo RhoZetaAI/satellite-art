@@ -2,7 +2,7 @@
 
 **FYI: a computing device such as a laptop plus internet connectivity is required. No microcontrollers like RPi are required. The computing device is assumed to provide free screenshot software, further capable of generating and/or converting common image file formats like jpg into png.**    
 
-In this workshop participants will turn NASA Satellite images of Earth into colourful Digital Art using Open Source Python capabilities, such as performing Color Quantization using Machine Learning with scikit-learn, and applying pre-made image filters available from the Pillow/PIL Python Imaging library.
+In this workshop participants will turn NASA Satellite images of Earth into colourful Digital Art using Open Source Python capabilities, such as performing Color Quantization using [K-Means/Machine Learning with scikit-learn](https://scikit-learn.org/stable/auto_examples/cluster/plot_color_quantization.html), and applying pre-made image filters available from the Pillow/PIL Python Imaging library.
 
 ---
 # What is Satellite Art?

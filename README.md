@@ -1,6 +1,6 @@
-# Satellite Art inspiration:
+# What is Satellite Art?
 
-[Canadian Space Agency - gallery of Satellite Art](https://www.asc-csa.gc.ca/eng/satellites/earth-observation/satelliteart/)
+[Example from the Canadian Space Agency: gallery of Satellite Art](https://www.asc-csa.gc.ca/eng/satellites/earth-observation/satelliteart/)
 
 
 # JupyterLite for Satellite Art

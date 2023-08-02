@@ -7,12 +7,14 @@ In this workshop participants will turn NASA Satellite images of Earth into colo
 ---
 # What is Satellite Art?
 
-[Example from the Canadian Space Agency: gallery of Satellite Art](https://www.asc-csa.gc.ca/eng/satellites/earth-observation/satelliteart/)
+Here's an example [Satellite Art gallery](https://www.asc-csa.gc.ca/eng/satellites/earth-observation/satelliteart/) from the Canadian Space Agency.
 
-# Where to source Satellite images?
+# Where are we sourcing Satellite images?
 
 [NASA WorldWind planetary globe 3D engine](https://worldwind.arc.nasa.gov/)
 Click the [Explore a WorldWind demo](https://worldwind.earth/explorer/) button, then take screenshots of places on earth.
+
+Feel free to obtain png images of Earth from any other (legal!) source though! A recommended alternative is [LandsatLook](https://landsatlook.usgs.gov/explore), another related open US gov data source with just Landsat Satellite imagery where you can export png files of a current map view - but there exist many others.
 
 # What processing steps are required for these NASA WorldWind screenshots before applying our Python workflow?
 Our Python workflow works (best) on jpg/jpeg files, so if your screenshots are a different format, like png, use a free software like Preview on mac osx to make a png copy by exporting the original file and selecting the png option (with the Alpha option chosen).

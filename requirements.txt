@@ -14,4 +14,4 @@ numpy
 pandas
 scikit-learn
 matplotlib
-Pillow==10.0.0
+Pillow==9.5.0

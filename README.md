@@ -5,6 +5,7 @@
 In this workshop participants will turn NASA Satellite images of Earth into colourful Digital Art using Open Source Python capabilities, such as performing Color Quantization using [K-Means/Machine Learning with scikit-learn](https://scikit-learn.org/stable/auto_examples/cluster/plot_color_quantization.html), and applying pre-made image filters available from the Pillow/PIL Python Imaging library.
 
 ---
+
 # What is Satellite Art?
 
 Here's an example [Satellite Art gallery](https://www.asc-csa.gc.ca/eng/satellites/earth-observation/satelliteart/) from the Canadian Space Agency.
@@ -19,13 +20,10 @@ Testing of this JupyterLite distro indicates that the ability to load and proces
 - [LandsatLook](https://landsatlook.usgs.gov/explore). This has just Landsat Satellite imagery where you can export png files of a current map view.
 - [NASA Earth Observatory](https://earthobservatory.nasa.gov/) The [Images](https://earthobservatory.nasa.gov/images) section has loads of published jpg images by theme available for download.
 
-
 # How do we upload NASA Satellite images to the browser-based JupyterLite computational environment used for the Python workflow?
 - Go to the JupyterLite distribution set-up for making Satellite Art (link below).
 - Click on the **Upload Files** button, which is a symbol of an upward-pointing arrow with an underline, positionally located under **Run** on the menu bar.
 - Add all your screenshots into the main working directory (unless you want to create some directory structure and can update filepaths as necessary to access these).
-
-
 
 ----
 ## JupyterLite for Satellite Art 

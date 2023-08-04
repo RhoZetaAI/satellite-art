@@ -41,3 +41,4 @@ JupyterLite is being tested against modern web browsers:
 - Worked example: Planet Earth [Zoom to NASA WorldWind](https://worldwind.earth/explorer/)
 - Bolivian Andes, Potosí and Cerro Rico, one of the highest cities in the world developed at the foot of an extinct volcano full of silver. [Zoom to Potosí on NASA WorldWind](https://worldwind.earth/explorer/?layers=Blue%20Marble%20%26%20Landsat&lat=-19.5924783&lon=-65.7963796&alt=39787.48&heading=-56.43382166765295&tilt=52&roll=0).
 - Mount Fuji, Japan, with Tokyo in the distance. [Zoom to Mount Fuji on NASA WorldWind](https://worldwind.earth/explorer/?layers=Blue%20Marble%20%26%20Landsat&lat=35.4695680&lon=138.9940705&alt=74855.23&heading=105&tilt=67&roll=0)
+- Siwa Oasis, Egypt, in the Sahara Desert. [Zoom to Siwa Desert on NASA WorldWind](https://worldwind.earth/explorer/?layers=Blue%20Marble%20%26%20Landsat&lat=29.1959857&lon=25.6606480&alt=25537.95&heading=21.10417181208055&tilt=0&roll=0)

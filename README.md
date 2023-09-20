@@ -12,7 +12,7 @@ Here's an example [Satellite Art gallery](https://www.asc-csa.gc.ca/eng/satellit
 
 # Where are we sourcing Satellite images & what image pre-processing is required?
 
-Feel free to obtain jpg images of Earth from any legal source, whether download or screen capture e.g. with the Snipping Tool! Our Python workflow works most reliably with jpg/jpeg files, so if your sourced Satellite images are in a different format, like png, use a free software like Preview on mac osx to make a png copy by exporting the original file and selecting the png option (with the Alpha option chosen).
+Feel free to obtain jpg images of Earth from any legal source, whether download or screen capture e.g. with the Snipping Tool! Our Python code workflow works most reliably with jpg/jpeg files, so if your sourced Satellite images are in a different format, like png, use a free software like Preview on mac osx to make a png copy by exporting the original file and selecting the png option (with the Alpha option chosen).
 
 Testing of this JupyterLite distro indicates that the ability to load and process additional jpgs beyond those pre-loaded in the distro depends on the user's set-up, e.g. operating system, browser etc. BUT we do recommend having a go at getting and using your own satellite image data to create your Digital Art! Here are recommended sources, which happen to be open US government data:
 
@@ -20,7 +20,7 @@ Testing of this JupyterLite distro indicates that the ability to load and proces
 - [LandsatLook](https://landsatlook.usgs.gov/explore). This has just Landsat Satellite imagery where you can export png files of a current map view.
 - [NASA Earth Observatory](https://earthobservatory.nasa.gov/) The [Images](https://earthobservatory.nasa.gov/images) section has loads of published jpg images by theme available for download.
 
-# How do we upload NASA Satellite images to the browser-based JupyterLite computational environment used for the Python workflow?
+# How do we upload NASA Satellite images to the browser-based JupyterLite computational environment used for the Python code workflow?
 - Go to the JupyterLite distribution set-up for making Satellite Art (link below).
 - Click on the **Upload Files** button, which is a symbol of an upward-pointing arrow with an underline, positionally located under **Run** on the menu bar.
 - Add all your screenshots into the main working directory (unless you want to create some directory structure and can update filepaths as necessary to access these).
